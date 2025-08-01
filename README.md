@@ -30,4 +30,4 @@ python Calculator.py
 
 
 # Sample Output
-![Calculator Output](Calculator_App/Output.png)
+![Calculator Output](Output.png)
